@@ -1,0 +1,52 @@
+<style>
+    header {
+      margin: 5px;
+      text-align: center;
+      background: url('http://i.imgur.com/epTlZBW.jpg');
+      background-size: cover;
+      color: white;
+    }
+    a {
+      color: white;
+      font-family: Helvetica;
+    }
+    h1 {
+      font-size: 70px;
+      font-family: Helvetica;
+    }
+    img#pp {
+      margin: 73px 0px 0px 0px;;
+      border: 3px solid white;
+      border-radius: 0px;
+    }
+    img#pentax {
+
+    }
+    ul {
+      padding: 10px;
+      background: rgba(10,10,30,0.5);
+      font-family: Helvetica;
+    }
+    li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+      font-family: Helvetica;
+    }
+    article {
+      max-width: 500px;
+      padding: 20px;
+      margin: 0 auto;
+      font-family: Helvetica;
+    }
+    @media (max-width: 500px) {
+      h1 {
+        font-size: 30px;
+        padding: 30px;
+        font-family: Helvetica;
+      }
+      li {
+        padding: 5px;
+        display: block;
+      }
+    }
+  </style>
