@@ -2,7 +2,7 @@
     header {
       margin: 5px;
       text-align: center;
-      background: url('http://i.imgur.com/epTlZBW.jpg');
+      background: url("/images/background.jpg");
       background-size: cover;
       color: white;
     }
